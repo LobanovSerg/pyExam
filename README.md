@@ -1,4 +1,4 @@
-##Python Examples for Beginners 
+##Python Examples for Beginners##
 
 interesting solutions from python courses
 
