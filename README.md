@@ -1,5 +1,6 @@
-##Python Examples for Beginners##
-
-interesting solutions from python courses
-
 ![Python is Awesome!](src/img/python-logo.png)
+
+### Python Examples for Beginners
+    print('Hello, world!')
+---
+Interesting solutions from **python** courses
